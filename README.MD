@@ -14,7 +14,7 @@ A Web Application used to transfer money between multiple users (Project contain
 
 Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
 
-PROJECT SCREENSHOTS:
+**PROJECT SCREENSHOTS**:
 
 ![Home](https://user-images.githubusercontent.com/69808361/132049409-0ffed653-4f16-4d89-84d5-98c4e3b2a209.png)
 
